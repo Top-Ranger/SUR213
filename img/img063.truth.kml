@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="poly1">
+<LineStyle>
+<width>1.5</width>
+</LineStyle>
+<PolyStyle>
+<color>7dff0000</color>
+</PolyStyle>
+</Style>
+<Placemark>
+<name>236421370</name>
+<styleUrl>#poly1</styleUrl>
+<altitudeMode>clampToGround</altitudeMode>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<description></description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+13.758192,51.067392
+13.758358,51.067356
+13.758274,51.067244
+13.758114,51.067283
+13.758192,51.067392
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+<ExtendedData>
+</ExtendedData>
+</Placemark>
+</Document>
+</kml>

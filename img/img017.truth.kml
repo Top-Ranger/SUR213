@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="poly1">
+<LineStyle>
+<width>1.5</width>
+</LineStyle>
+<PolyStyle>
+<color>7dff0000</color>
+</PolyStyle>
+</Style>
+<!--
+Contains information from http://www.openstreetmap.org/, which is made available
+here under the Open Database License (ODbL) [http://opendatacommons.org/licenses/odbl/1.0/].
+-->
+<Placemark>
+<name>134876073</name>
+<styleUrl>#poly1</styleUrl>
+<altitudeMode>clampToGround</altitudeMode>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<description></description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+12.383334,51.344412
+12.383534,51.344599
+12.384608,51.345600
+12.384780,51.345760
+12.384649,51.345815
+12.384466,51.345896
+12.384124,51.346034
+12.383583,51.346261
+12.383037,51.346489
+12.382502,51.346713
+12.381965,51.346938
+12.381444,51.347155
+12.381259,51.347233
+12.379827,51.345897
+12.380022,51.345815
+12.379812,51.345621
+12.380321,51.345410
+12.380859,51.345187
+12.381401,51.344962
+12.381937,51.344740
+12.382485,51.344513
+12.383018,51.344292
+12.383202,51.344468
+12.383334,51.344412
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+<ExtendedData>
+</ExtendedData>
+</Placemark>
+</Document>
+</kml>

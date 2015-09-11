@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="poly1">
+<LineStyle>
+<width>1.5</width>
+</LineStyle>
+<PolyStyle>
+<color>7dff0000</color>
+</PolyStyle>
+</Style>
+<!--
+Contains information from http://www.openstreetmap.org/, which is made available
+here under the Open Database License (ODbL) [http://opendatacommons.org/licenses/odbl/1.0/].
+-->
+<Placemark>
+<name>img034</name>
+<styleUrl>#poly1</styleUrl>
+<altitudeMode>clampToGround</altitudeMode>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<description><img src="img034.jpg" width="400"/></description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+10.539099,52.252599
+10.539168,52.252644
+10.539331,52.252751
+10.539493,52.252857
+10.539699,52.252991
+10.539824,52.253073
+10.539851,52.253058
+10.539929,52.253109
+10.539982,52.253079
+10.540037,52.253047
+10.540132,52.252992
+10.540199,52.252954
+10.540295,52.252899
+10.540230,52.252856
+10.540134,52.252911
+10.539922,52.252772
+10.539844,52.252721
+10.539788,52.252685
+10.539728,52.252645
+10.539661,52.252601
+10.539593,52.252557
+10.539521,52.252510
+10.539438,52.252456
+10.539327,52.252383
+10.539160,52.252274
+10.538973,52.252381
+10.538862,52.252444
+10.538898,52.252468
+10.539029,52.252554
+10.539099,52.252599
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+<ExtendedData>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>img034</name>
+<description></description>
+<Point>
+<coordinates>
+10.539423,52.252766
+</coordinates>
+</Point>
+<ExtendedData>
+</ExtendedData>
+</Placemark>
+</Document>
+</kml>

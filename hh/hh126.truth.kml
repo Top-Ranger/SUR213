@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="poly1">
+<LineStyle>
+<width>1.5</width>
+</LineStyle>
+<PolyStyle>
+<color>7dff0000</color>
+</PolyStyle>
+</Style>
+<Placemark>
+<name>hh126</name>
+<styleUrl>#poly1</styleUrl>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+10.194734,53.523078
+10.197116,53.524966
+10.195163,53.525617
+10.194670,53.525043
+10.190078,53.526535
+10.193039,53.529316
+10.195549,53.528066
+10.201665,53.528716
+10.203446,53.526841
+10.202073,53.526637
+10.201708,53.524341
+10.198747,53.521611
+10.194734,53.523078
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+<ExtendedData>
+</ExtendedData>
+</Placemark>
+</Document>
+</kml>

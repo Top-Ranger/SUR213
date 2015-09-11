@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="poly1">
+<LineStyle>
+<width>1.5</width>
+</LineStyle>
+<PolyStyle>
+<color>7dff0000</color>
+</PolyStyle>
+</Style>
+<!--
+Contains information from http://www.openstreetmap.org/, which is made available
+here under the Open Database License (ODbL) [http://opendatacommons.org/licenses/odbl/1.0/].
+-->
+<Placemark>
+<name>hh074</name>
+<styleUrl>#poly1</styleUrl>
+<altitudeMode>clampToGround</altitudeMode>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<description></description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+10.207812,53.491281
+10.208056,53.491297
+10.208063,53.491254
+10.207993,53.491247
+10.208003,53.491192
+10.208113,53.491206
+10.208115,53.491228
+10.208344,53.491230
+10.208345,53.491209
+10.208491,53.491206
+10.208447,53.491153
+10.208398,53.491167
+10.208307,53.491166
+10.208129,53.491168
+10.208129,53.491162
+10.208062,53.491157
+10.207942,53.491144
+10.207840,53.491126
+10.207812,53.491281
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+<ExtendedData>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>hh074</name>
+<description></description>
+<Point>
+<coordinates>
+10.207744,53.491186
+</coordinates>
+</Point>
+<ExtendedData>
+</ExtendedData>
+</Placemark>
+</Document>
+</kml>

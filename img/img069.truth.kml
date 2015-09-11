@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="poly1">
+<LineStyle>
+<width>1.5</width>
+</LineStyle>
+<PolyStyle>
+<color>7dff0000</color>
+</PolyStyle>
+</Style>
+<Placemark>
+<name>img069</name>
+<styleUrl>#poly1</styleUrl>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+9.981042,54.078817
+9.980830,54.078327
+9.980598,54.077687
+9.979984,54.076757
+9.979734,54.076354
+9.979458,54.075864
+9.979302,54.075435
+9.979203,54.074980
+9.979265,54.074971
+9.979828,54.076236
+9.980252,54.076883
+9.980429,54.077141
+9.980644,54.077551
+9.980732,54.077809
+9.981089,54.078812
+9.981042,54.078817
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+<ExtendedData>
+</ExtendedData>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="poly1">
+<LineStyle>
+<width>1.5</width>
+</LineStyle>
+<PolyStyle>
+<color>7dff0000</color>
+</PolyStyle>
+</Style>
+<!--
+Contains information from http://www.openstreetmap.org/, which is made available
+here under the Open Database License (ODbL) [http://opendatacommons.org/licenses/odbl/1.0/].
+-->
+<Placemark>
+<name>30621633</name>
+<styleUrl>#poly1</styleUrl>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+9.933053,53.598431
+9.933770,53.598801
+9.934050,53.598611
+9.933445,53.598300
+9.933221,53.598430
+9.933136,53.598379
+9.933283,53.598264
+9.932395,53.597898
+9.932132,53.597800
+9.931885,53.597926
+9.931820,53.598045
+9.931916,53.598270
+9.932363,53.598534
+9.932434,53.598572
+9.932719,53.598697
+9.933053,53.598431
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+<ExtendedData>
+</ExtendedData>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+SUR 213 Database
+   by Philipp Naumann and Marcus Soll
+
+-------------------------------------------------------------------------------
+
+This repository contains 'Space Usage Rules' as defined in [SAM14]. It was
+collected for the InformatiCup 2015.
+
+-------------------------------------------------------------------------------
+
+License:
+
+Copyright (C)2014,2015 Philipp Naumann
+Copyright (C)2014,2015 Marcus Soll
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 
+International License. To view a copy of this license, 
+visit http://creativecommons.org/licenses/by-sa/4.0/.
+
+Some of the KML-files are licensed under the Open Database License (ODbL).
+To view a copy of this license, 
+visit http://opendatacommons.org/licenses/odbl/1.0/.
+
+-------------------------------------------------------------------------------
+
+References:
+   [SAM14] Samsonov, P., Tang, X., Schöning, J., Kuhn, W. and Hecht, B., You 
+           Can‘t Smoke Here: Towards Support for Space Usage Rules in 
+           Location-aware Technologies. University of Minnesota Tech Report, 
+           http://cs.umn.edu/~bhecht/usage_rules/tr.html.
